@@ -1,0 +1,3 @@
+/home/benicio/Escritorio/Lixame-Studios/L/build/CMakeFiles/Lix-L.dir
+/home/benicio/Escritorio/Lixame-Studios/L/build/CMakeFiles/edit_cache.dir
+/home/benicio/Escritorio/Lixame-Studios/L/build/CMakeFiles/rebuild_cache.dir
