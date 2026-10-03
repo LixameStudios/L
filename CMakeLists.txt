@@ -9,6 +9,11 @@ find_package(raylib REQUIRED)
 
 add_executable(Lix-L
     src/main.c
+    src/interface.c
+)
+
+target_include_directories(Lix-L PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/src
 )
 
 target_link_libraries(Lix-L PRIVATE raylib)

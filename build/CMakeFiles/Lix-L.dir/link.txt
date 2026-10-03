@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/Lix-L.dir/link.d "CMakeFiles/Lix-L.dir/src/main.c.o" -o Lix-L  /usr/lib/libraylib.so.6.0.0 -lm

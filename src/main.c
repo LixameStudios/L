@@ -1,4 +1,5 @@
 #include <raylib.h>
+#include "interface.h"
 
 int main(void)
 {
@@ -12,7 +13,7 @@ int main(void)
     {
         BeginDrawing();
 
-        ClearBackground(RAYWHITE);
+        DrawInterface();
 
         EndDrawing();
     }
